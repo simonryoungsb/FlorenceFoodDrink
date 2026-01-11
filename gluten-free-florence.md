@@ -5,7 +5,7 @@ title: Gluten-Free in Florence (2026)
 
 Florence can be tricky gluten-free: “senza glutine” sometimes comes with cross-contamination risk. This page gives you a safe way to think about it, plus a short starter list.
 
-[Buy the book on Amazon](PASTE_YOUR_AMAZON_LINK_HERE) • [The 101 Index](/FlorenceFoodDrink/101/)
+[Buy the book on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
 ## The three tiers (how to think about safety)
 
