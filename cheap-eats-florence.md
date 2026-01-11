@@ -11,7 +11,7 @@ Florence can be expensive in the centre — but some of the most local food is, 
 
 - Don’t “do restaurants” for every meal: use **markets, bakeries, panini shops, and street food**
 - Treat **aperitivo** as dinner when the bites are good
-- Avoid “cheap” menus in the postcard zone — worst value, biggest regret
+- Avoid “cheap” menus in the postcard zone. Worst value, biggest regrets.
 
 ## Starter list (from the book)
 
@@ -21,7 +21,7 @@ Florence can be expensive in the centre — but some of the most local food is, 
 
 **Market lunches**
 - Trattoria da Rocco (Sant’Ambrogio market)  
-- Mercato Centrale (variety in one hit)
+- Mercato Centrale (variety in one hit at the crazy benches there)
 
 **Panini / bakery lunches**
 - Pino’s Sandwiches  
@@ -37,7 +37,7 @@ Florence can be expensive in the centre — but some of the most local food is, 
 
 ## Cheap dessert: do gelato properly
 
-If you want a memorable cheap finish, do gelato like a crawl: try two or three in the same area and pick a winner.
+If you want a memorable cheap finish, do a gelato crawl: try four or five in the same area and pick a winner.
 
 [Buy on Amazon](PASTE_YOUR_AMAZON_LINK_HERE)
 
