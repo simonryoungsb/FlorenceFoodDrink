@@ -43,3 +43,6 @@ This is a starter pack — the full list and details are in the book.
 The book has the full 101, plus what to order and why each place is worth your time.
 
 [Buy on Amazon](PASTE_YOUR_AMAZON_LINK_HERE)
+
+[The 101 Index](/FlorenceFoodDrink/101/)
+
