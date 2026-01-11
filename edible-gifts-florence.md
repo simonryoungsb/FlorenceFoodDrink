@@ -3,7 +3,8 @@ layout: page
 title: Edible Gifts From Florence
 ---
 
-Florence is a great city for edible souvenirs, if you buy the right things and pack them properly.
+After years of watching people panic-buy souvenirs on their last afternoon, I built a simple rule for **edible gifts from Florence**: buy what travels well, buy it at the right moment, and pack it like it matters. This is the 2026 version — quick, practical, and designed to keep your suitcase (and your gifts) intact.
+
 
 [Buy the book on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
