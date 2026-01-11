@@ -2,6 +2,7 @@
 layout: page
 title: The Book
 ---
+![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence.jpg)
 
 **Florence Food & Drink (2026 edition)** is a tried-and-tested, opinionated guide to **101 places, specialties, and experiences** across Florence — built from real habits and repeat visits, not generic lists.
 
