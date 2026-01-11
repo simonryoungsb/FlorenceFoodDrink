@@ -2,8 +2,7 @@
 layout: page
 title: Aperitivo in Florence
 ---
-
-Aperitivo is Florence’s early-evening ritual: a drink, something salty, a pause, and, if you do it right, the moment that quietly turns into dinner.
+I struggled for a while to understand **aperitivo in Florence** — it looks obvious until you try to do it well. This is the quick, usable version for **2026**: what aperitivo is, how to get it right, and a short starter list of places so you don’t waste an evening.
 
 [Buy on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
