@@ -5,7 +5,7 @@ title: The Book
 
 **Florence Food & Drink (2026 edition)** is a tried-and-tested, opinionated guide to **101 places, specialties, and experiences** across Florence — built from real habits and repeat visits, not generic lists.
 
-[Buy on Amazon](www.amazon.com/Florence-Food-Drink-Specialties-Experiences-ebook/dp/B0GF8R2K7R/ref) • [The 101 Index](/FlorenceFoodDrink/101/)
+[Buy the book on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
 ## What you’ll find inside
 
