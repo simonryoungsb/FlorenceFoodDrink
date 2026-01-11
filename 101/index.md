@@ -9,7 +9,6 @@ A quick, skim-friendly index of the **101 places, specialties, and experiences**
 
 [Buy on Amazon](https://www.amazon.com/dp/B0GF8R2K7R)
 
----
 
 ## Part One: Tuscan-Style Restaurants
 
