@@ -3,7 +3,8 @@ layout: page
 title: Cheap Eats in Florence
 ---
 
-Florence can be expensive in the centre — but some of the most local food is, by nature, cheap. This page shows you how to eat well on a budget without settling for tourist rubbish.
+If you’re searching for **cheap eats in Florence**, here’s the honest 2026 version: where budget food is genuinely good, how to avoid the worst-value tourist traps, and a short starter list you can actually use on a real trip.
+
 
 [Buy the book on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
