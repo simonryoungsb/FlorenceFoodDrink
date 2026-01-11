@@ -11,7 +11,7 @@ title: The Book
 ## What you’ll find inside
 
 - Tuscan-style restaurants  
-- Non-Tuscan restaurants (Sicilian, Sardinian, Milanese...)  
+- Non-Tuscan restaurants (Sicilian, Sardinian, Milanese, fusion...)  
 - Street food & bakeries  
 - Cafés, wineries & bars  
 - Markets & shops (edible souvenirs, take-home upgrades)  
