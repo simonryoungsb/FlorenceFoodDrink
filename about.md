@@ -20,3 +20,4 @@ I’m interested in both tradition and change: the old habits that still matter,
 
 Corrections, updates, or business notes: **italyfooddrinksry@gmail.com**
 ![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence2.jpg)
+[The 101 Index](/FlorenceFoodDrink/101/)
