@@ -1,0 +1,11 @@
+title: Florence Food & Drink (2026)
+description: Florence food guide (2026): 101 tried-and-tested restaurants, wine bars, bakeries, markets, aperitivo stops and experiences.
+theme: minima
+
+header_pages:
+  - book.md
+  - aperitivo-florence.md
+  - gluten-free-florence.md
+  - edible-gifts-florence.md
+  - cheap-eats-florence.md
+  - about.md
