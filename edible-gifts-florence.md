@@ -5,7 +5,7 @@ title: Edible Gifts From Florence
 
 Florence is a great city for edible souvenirs — if you buy the right things and pack them properly.
 
-[Buy the book on Amazon](PASTE_YOUR_AMAZON_LINK_HERE) • [The 101 Index](/FlorenceFoodDrink/101/)
+[Buy the book on Amazon](https://www.amazon.com/dp/B0GF8R2K7R) • [The 101 Index](/FlorenceFoodDrink/101/)
 
 ## What actually travels well
 
