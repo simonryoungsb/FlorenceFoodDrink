@@ -22,3 +22,4 @@ title: The Book
 
 Florence changes fast. This is a **2026 edition** — and you should always verify opening hours directly with venues.
 
+[The 101 Index](/FlorenceFoodDrink/101/)
