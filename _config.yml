@@ -11,3 +11,9 @@ header_pages:
   - edible-gifts-florence.md
   - cheap-eats-florence.md
   - about.md
+
+url: "https://simonryoungsb.github.io"
+baseurl: "/FlorenceFoodDrink"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
