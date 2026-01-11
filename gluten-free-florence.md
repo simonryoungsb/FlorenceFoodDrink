@@ -42,3 +42,4 @@ If you’re tired and hungry, choose Tier 1 or Tier 2. Florence is not the place
 
 [Buy on Amazon](PASTE_YOUR_AMAZON_LINK_HERE)
 
+[The 101 Index](/FlorenceFoodDrink/101/)
