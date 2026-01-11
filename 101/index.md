@@ -1,3 +1,10 @@
+---
+layout: page
+title: The 101 Index
+permalink: /101/
+---
+
+
 A quick, skim-friendly index of the **101 places, specialties, and experiences** in *Florence Food & Drink (2026 Edition)*. Full notes, addresses, and the “why” are in the book.
 
 [Buy on Amazon](www.amazon.com/Florence-Food-Drink-Specialties-Experiences-ebook/dp/B0GF8R2K7R/ref)
