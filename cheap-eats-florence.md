@@ -40,3 +40,6 @@ Florence can be expensive in the centre — but some of the most local food is, 
 If you want a memorable cheap finish, do gelato like a crawl: try two or three in the same area and pick a winner.
 
 [Buy on Amazon](PASTE_YOUR_AMAZON_LINK_HERE)
+
+![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence2.jpg)
+
