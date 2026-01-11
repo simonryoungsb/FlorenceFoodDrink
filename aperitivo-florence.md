@@ -21,6 +21,8 @@ Think of aperitivo as *pre-dinner drinking with intent*:
 - boards/cheese aperitivo (easy to turn into dinner)
 - “beautiful setting” aperitivo (you’re paying for atmosphere)
 - takeaway aperitivo (buy bottles + snacks and build your own)
+![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence.jpg)
+
 
 **Timing helps.** If you want a seat, go a bit earlier; if you want atmosphere, go at peak.
 
