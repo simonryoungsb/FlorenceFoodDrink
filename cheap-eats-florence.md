@@ -43,3 +43,4 @@ If you want a memorable cheap finish, do a gelato crawl: try four or five in the
 
 ![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence2.jpg)
 
+[The 101 Index](/FlorenceFoodDrink/101/)
