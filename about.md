@@ -14,3 +14,4 @@ If you want the full list (101 places, specialties, and experiences), start here
 ## Contact
 
 Corrections, updates, or business notes: **italyfooddrinksry@gmail.com**
+![Florence Food & Drink (2026) book cover](/FlorenceFoodDrink/assets/florence2.jpg)
