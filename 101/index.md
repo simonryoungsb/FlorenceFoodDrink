@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The 101 Index
+title: Our 101 2026 Champions!
 permalink: /101/
 ---
 
